@@ -1,0 +1,57 @@
+.side-nav-item{
+    font-weight: 100;
+    font-size: 2.5em;
+}
+
+.side-nav-item:hover{
+    cursor: pointer;
+}
+
+.collection{
+    border-radius: 0px;
+    border:0px
+}
+
+.darkBg{
+    background-color: #252627
+}
+
+.darkerBg{
+    background-color: #181818
+}
+
+.collection .collection-item {
+    border-bottom:0px;
+}
+
+.thin-text{
+    font-weight:100
+}
+
+.waves-effect{
+    display: block;
+}
+
+.chip{
+    cursor: default
+}
+
+/* Create two equal columns that floats next to each other */
+.img-col {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.img-col img {
+    margin-top: 5px;
+    width: 100%;
+}
+
+/* Clear floats after the columns */
+.img-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+        
