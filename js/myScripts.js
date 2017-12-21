@@ -8,12 +8,22 @@ $(document).ready(function(){
         onLeave: function(index, nextIndex, direction){
             $("#side-nav-item-"+index).removeClass("pink-text").addClass("grey-text text-lighten-4");
             $("#side-nav-item-"+nextIndex).addClass("pink-text").removeClass("grey-text text-lighten-4");
-            current = nextIndex
+            current = nextIndex;
+            if(current!=1){
+                $('#intropage').addClass("fadeOut").removeClass("fadeIn");
+            }else{
+                $('#intropage').addClass("fadeIn").removeClass("fadeOut");
+            }
+            if(current==2){
+                $('#about_col').addClass("fadeIn").removeClass("fadeOut");
+            } else{
+                $('#about_col').addClass("fadeOut").removeClass("fadeIn");
+            }
             if(current==7){
                 $('#goUpFab').fadeIn();
             }else{
                 $('#goUpFab').fadeOut();
-            }
+            }            
         }
     });
     document.onkeydown = function(e) {
