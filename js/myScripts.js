@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $('.tooltipped').tooltip();
     $('#goUpFab').hide();
     var current = 1;
     $("#side-nav-item-1").removeClass("grey-text text-lighten-4").addClass("pink-text");
@@ -55,5 +56,4 @@ $(document).ready(function(){
     $('#goUpFab').click(function(){
         $.fn.fullpage.moveTo(1);
     });
-    $('.tooltipped').tooltip();
 });
