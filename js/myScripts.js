@@ -4,7 +4,7 @@ $(document).ready(function(){
     $("#side-nav-item-1").removeClass("grey-text text-lighten-4").addClass("pink-text");
     $('#fullpage').fullpage({
         keyboardScrolling: false,
-        //css3: false,
+        // css3: false,
         onLeave: function(index, nextIndex, direction){
             $("#side-nav-item-"+index).removeClass("pink-text").addClass("grey-text text-lighten-4");
             $("#side-nav-item-"+nextIndex).addClass("pink-text").removeClass("grey-text text-lighten-4");
@@ -55,4 +55,5 @@ $(document).ready(function(){
     $('#goUpFab').click(function(){
         $.fn.fullpage.moveTo(1);
     });
+    $('.tooltipped').tooltip();
 });
