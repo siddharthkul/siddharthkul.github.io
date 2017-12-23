@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $('.collapsible').collapsible();
     $('.tooltipped').tooltip();
     $('#goUpFab').hide();
     var current = 1;
@@ -19,6 +20,16 @@ $(document).ready(function(){
                 $('#about_col').addClass("fadeIn").removeClass("fadeOut");
             } else{
                 $('#about_col').addClass("fadeOut").removeClass("fadeIn");
+            }
+            if(current==3){
+                $('#abodemart_col').addClass("fadeIn").removeClass("fadeOut");
+            } else{
+                $('#abodemart_col').addClass("fadeOut").removeClass("fadeIn");
+            }
+            if(current==4){
+                $('#other_col').addClass("fadeIn").removeClass("fadeOut");
+            } else{
+                $('#other_col').addClass("fadeOut").removeClass("fadeIn");
             }
             if(current==7){
                 $('#goUpFab').fadeIn();
