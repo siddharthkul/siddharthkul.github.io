@@ -31,6 +31,11 @@ $(document).ready(function(){
             } else{
                 $('#other_col').addClass("fadeOut").removeClass("fadeIn");
             }
+            if(current==5){
+                $('#sjsu_col').addClass("fadeIn").removeClass("fadeOut");
+            } else{
+                $('#sjsu_col').addClass("fadeOut").removeClass("fadeIn");
+            }
             if(current==7){
                 $('#goUpFab').fadeIn();
             }else{
