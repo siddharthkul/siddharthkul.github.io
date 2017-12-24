@@ -55,3 +55,18 @@
     clear: both;
 }
         
+.card .card-content .card-title {
+     line-height: 22px 
+}
+
+.card .card-title {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+@media only screen and (max-width: 600px) {
+    .card .card-title {
+        font-size: 16px;
+        font-weight: 300;
+    }
+  }
