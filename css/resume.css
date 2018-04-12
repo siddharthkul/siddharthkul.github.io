@@ -1,5 +1,7 @@
 body {
-  font-family: 'Open Sans', serif;
+  /*font-family: 'Open Sans', serif;*/
+  /*font-family: Helvetica Neue,Helvetica,Arial,sans-serif;*/
+  font-family: 'Roboto', sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -18,6 +20,7 @@ h4,
 h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
+  /*font-family: Helvetica Neue,Helvetica,Arial,sans-serif;*/
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -36,6 +39,8 @@ h2 {
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
+  /*font-family: Helvetica Neue,Helvetica,Arial,sans-serif;*/
+  /*font-family: 'Roboto', sans-serif;*/
   font-size: 1.35rem;
 }
 
@@ -119,7 +124,7 @@ section.resume-section .resume-item .resume-date {
     min-height: 100vh;
   }
   section.resume-section .resume-item .resume-date {
-    min-width: 18rem;
+    min-width: 20rem;
   }
 }
 
@@ -131,17 +136,26 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #1db954 !important;
+  background-color: #3B5998 !important;
 }
 
 .text-primary {
-  color: #1db954 !important;
+  color: #3B5998 !important;
 }
 
 a {
-  color: #1db954;
+  color: #3B5998;
 }
 
 a:hover, a:focus, a:active {
-  color: #1db954;
+  color: #3B5998;
+}
+
+.text-primary{
+  font-family: 'Saira Extra Condensed', serif;
+  /*font-size: 1.3em;*/
+}
+
+.tp2{
+  font-size: 1.4em;
 }
