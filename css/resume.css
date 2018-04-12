@@ -159,3 +159,7 @@ a:hover, a:focus, a:active {
 .tp2{
   font-size: 1.4em;
 }
+
+.badge-info{
+    background-color: #3B5998;
+}
