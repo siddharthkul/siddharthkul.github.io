@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d994dbb8-0b6a-49d2-9cc5-1074ea7df10b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,22 +21,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="81" column="24" lean-forward="true" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+            <state relative-caret-position="3078">
+              <caret line="331" column="73" lean-forward="true" selection-start-line="331" selection-start-column="73" selection-end-line="331" selection-end-column="73" />
               <folding>
                 <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/resume.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3427">
-              <caret line="149" column="28" lean-forward="true" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -53,6 +47,10 @@
       <find>text-prim</find>
       <find>resume-date</find>
       <find>text-primary</find>
+      <find>abodemart</find>
+      <find>energy</find>
+      <find>badge</find>
+      <find>srm sea</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -61,8 +59,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/resume.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -142,19 +140,19 @@
       <option name="presentableId" value="Default" />
       <updated>1523459938679</updated>
       <workItem from="1523459941730" duration="4430000" />
-      <workItem from="1523559867262" duration="1106000" />
+      <workItem from="1523559867262" duration="2604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5536000" />
+    <option name="totallyTimeSpent" value="7034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="1280" y="0" width="1287" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.108333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16161616" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
@@ -186,6 +184,7 @@
           <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
           <folding>
             <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -194,17 +193,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3427">
-          <caret line="149" column="28" lean-forward="true" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
+        <state relative-caret-position="394">
+          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="81" column="24" lean-forward="true" selection-start-line="81" selection-start-column="24" selection-end-line="81" selection-end-column="24" />
+        <state relative-caret-position="3078">
+          <caret line="331" column="73" lean-forward="true" selection-start-line="331" selection-start-column="73" selection-end-line="331" selection-end-column="73" />
           <folding>
             <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
